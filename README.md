@@ -608,8 +608,6 @@ $ <b>sudo pacman -S openvpn</b>                <i># openvpn client</i>
 $ <b>sudo pacman -S wireguard-tools</b>        <i># wireguard client</i>
 $ <b>sudo pacman -S arandr</b>                 <i># gui for xrandr</i>
 $ <b>sudo pacman -S mpv</b>                    <i># media player</i>
-$ <b>sudo pacman -S xdg-desktop-portal</b>     <i># desktop integration portals for sandboxed apps</i>
-$ <b>sudo pacman -S xdg-desktop-portal-gtk</b> <i># a backend implementation for xdg-desktop-portal using GTK</i>
 </pre>
 </dd></dl>
 
